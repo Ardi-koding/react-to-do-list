@@ -4,7 +4,7 @@ A simple and clean to-do list app built with React. Users can add and delete tas
 
 ## 🚀 Live Demo
 
-👉 [View the app on GitHub Pages](https://your-username.github.io/react-to-do-list)
+👉 [View the app on GitHub Pages](https://ardi-koding.github.io/react-to-do-list/)
 
 ## ✨ Features
 
